@@ -19,7 +19,6 @@ The system provides gym managers with advanced tools to monitor and improve the 
 ✔ **Health & Safety** – Maintain optimal air quality and noise levels to ensure customer and employee well-being.  
 ✔ **Gym Management Tools** – View alerts, reports, and historical data for improved decision-making.  
 ✔ **Noise Reduction & Acoustic Control** – Adjust noise levels and music for a better workout atmosphere. 
-
 ✔ **Real-Time Alerts** – Notifications for high electricity consumption or overcrowding. 
 
 The project follows **IoT principles** for real-time environmental monitoring and smart adjustments, using **Node.js** for backend development and **React.js** for the frontend.
