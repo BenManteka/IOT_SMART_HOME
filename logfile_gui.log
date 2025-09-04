@@ -1,0 +1,22 @@
+2025-09-04 22:03:17,996 : ERROR : __main__ : GUI Crash!
+Traceback (most recent call last):
+  File "C:\Users\0ben5\IOT_SMART_HOME-main\gui.py", line 433, in <module>
+    mainwin = MainWindow()
+  File "C:\Users\0ben5\IOT_SMART_HOME-main\gui.py", line 422, in __init__
+    self.plotsDock = PlotDock()
+  File "C:\Users\0ben5\IOT_SMART_HOME-main\gui.py", line 389, in __init__
+    rez = da.filter_by_date('data', '2021-05-16', '2021-05-18', 'ElecMeter')
+  File "C:\Users\0ben5\IOT_SMART_HOME-main\data_acq.py", line 232, in filter_by_date
+    cur.execute(query, (meter, start_date, end_date))  # ����� �������� ������
+sqlite3.OperationalError: no such table: data
+2025-09-04 22:05:39,180 : ERROR : __main__ : GUI Crash!
+Traceback (most recent call last):
+  File "C:\Users\0ben5\IOT_SMART_HOME-main\gui.py", line 433, in <module>
+    mainwin = MainWindow()
+  File "C:\Users\0ben5\IOT_SMART_HOME-main\gui.py", line 422, in __init__
+    self.plotsDock = PlotDock()
+  File "C:\Users\0ben5\IOT_SMART_HOME-main\gui.py", line 389, in __init__
+    rez = da.filter_by_date('data', '2021-05-16', '2021-05-18', 'ElecMeter')
+  File "C:\Users\0ben5\IOT_SMART_HOME-main\data_acq.py", line 232, in filter_by_date
+    cur.execute(query, (meter, start_date, end_date))  # ����� �������� ������
+sqlite3.OperationalError: no such table: data
