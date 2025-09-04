@@ -48,15 +48,16 @@ The project follows **IoT principles** for real-time environmental monitoring an
 
 ## 🔗 **Project Links**  
 
-📌 [Project Presentation](https://www.youtube.com/watch?v=kY96Prmqh8o)  
-📌 [Project Design on Canva](https://www.canva.com/design/DAGdxlUPqSQ/T0AoYankSs7rAPMulDDP5A/edit?utm_content=DAGdxlUPqSQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+📌 Project Presentation Link  
+📌 Powerpoint Presentsion
 
 ---
 
 ## 👥 **Authors**  
 
-- **Gal Mizrachi** - [GitHub Profile](https://github.com/GalMizrachi)  
-- **Maya Lesnik** - [GitHub Profile](https://github.com/mayalesnik)  
+- **Ben Manteka** - https://github.com/BenManteka/IOT_SMART_HOME
+- **Roni Ben shushan** -   
+- **Mayan Shemesh** -  
 
 ---
 
